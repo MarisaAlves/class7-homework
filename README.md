@@ -1,4 +1,4 @@
-# class6-homework
+# class7-homework
 
 ## How to Run the Python Files
 
@@ -24,7 +24,7 @@ python3 diabetes_regression.py
 <p>To run the python file in PyCharm you must first create a PyCharm project. This project will create all the project metadata to help run the file, and the project folder must contain the diabetes_regession.py, kneighbors.py, Ridge_Regression.py, and Lasso_Regression.py files, as well as the diabetes.data file. To run the file, either click on the green arrow at the top right of the screen, or right click within the body of the code and then click on run. 
 
 ## Comparing the Regression Methods
-<p>
+<p>For the regression analysis, I performed 4 different analyses (two required,two additional): a basic linear regression, nearest neighbor, ridge regression, and lasso regression. For these analyses the one with the best seemed to be the linear regression, because it had the lowest RMSE. These can all be compared via the graphs done for each.<p>
 
 
 
